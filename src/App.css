@@ -1,8 +1,0 @@
-@media (max-width:550px){
-  .App{
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: auto;
-  }
-}
